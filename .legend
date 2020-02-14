@@ -1,0 +1,9 @@
+A map must contain 108 lines
+All map lines must have the same length
+Char position in the map represent with a scale of X10, the anchor of sprite in game
+All char are allowed, but only those described below represent sprites:
+	B = Barrel
+	C = Crate
+	H = Hail wagon
+	W = Well
+Background and entities cannot be represented in this file and will be randomly generated in the game
