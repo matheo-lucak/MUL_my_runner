@@ -1,4 +1,7 @@
 # My_runner
+
+My second Graphic Project in C:
+
 Game with a scrolling camera in which the character must stay, while dodging obstacles.
 
 Use command "make" to compile the game.
